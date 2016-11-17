@@ -12,3 +12,7 @@ img {
   border: 2px green dashed;
   padding: 5px;
 }
+
+#first-ingredient {
+  color: blue;
+}
