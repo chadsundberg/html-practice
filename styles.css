@@ -16,3 +16,8 @@ img {
 #first-ingredient {
   color: blue;
 }
+
+.section-heading {
+  background-color: #66ff66;
+  font-style: italic;
+}
